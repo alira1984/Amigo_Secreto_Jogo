@@ -19,7 +19,10 @@
 3. Insira nomes para sortear.
 4. Clique no botão "Sortear Amigo" para realizar o sorteio.
 
-# 📺:Tecnologias utilizadas
+# 📲 Aplicação rodando
+  ![Image](https://github.com/user-attachments/assets/a395ee9e-60e3-4c26-a4a8-8405668bda44)
+
+# 📺 Tecnologias utilizadas
 - HTML5 para estrutura da página.
 - CSS3 para estilização básica.
 - JavaScript para a lógica de sorteio.
